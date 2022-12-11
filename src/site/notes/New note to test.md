@@ -2,8 +2,11 @@
 {"dg-publish":true,"permalink":"/new-note-to-test/","tags":"gardenEntry"}
 ---
 
+# To test Obsidian Digital Garden
 
-To test Obsidian Digital Garden
+[[Wisdom Recycle copy to edit\|Wisdom Recycle copy to edit]]
+
+
 I tested and I loved being born again ;)
 [Zoom.GardenOfFriends.com](http://www.google.com/url?q=http%3A%2F%2Fzoom.gardenoffriends.com&sa=D&sntz=1&usg=AOvVaw2STzRaWbJ7wBKTJHNNCqTX)
 The next meal is being prepared by universe.
