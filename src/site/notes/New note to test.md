@@ -5,6 +5,7 @@
 # To test Obsidian Digital Garden
 
 [[Wisdom Recycle copy to edit\|Wisdom Recycle copy to edit]]
+[[Quotes\|Quotes]]
 
 
 I tested and I loved being born again ;)
